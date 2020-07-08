@@ -43,144 +43,145 @@ export default {
           {
             id: 1,
             url:
-              "https://yoohooworld.com/assets/images/vue_product_zoomer/thumbs/1.jpeg"
+              "https://picsum.photos/id/1/60"
           },
           {
             id: 2,
             url:
-              "https://yoohooworld.com/assets/images/vue_product_zoomer/thumbs/2.jpeg"
+              "https://picsum.photos/id/2/60"
           },
           {
             id: 3,
             url:
-              "https://yoohooworld.com/assets/images/vue_product_zoomer/thumbs/3.jpeg"
+              "https://picsum.photos/id/3/60"
           },
           {
             id: 4,
             url:
-              "https://yoohooworld.com/assets/images/vue_product_zoomer/thumbs/4.jpeg"
+              "https://picsum.photos/id/4/60"
           },
           {
             id: 5,
             url:
-              "https://yoohooworld.com/assets/images/vue_product_zoomer/thumbs/5.jpeg"
+              "https://picsum.photos/id/5/60"
           },
           {
             id: 6,
             url:
-              "https://yoohooworld.com/assets/images/vue_product_zoomer/thumbs/6.jpeg"
+              "https://picsum.photos/id/6/60"
           },
           {
             id: 7,
             url:
-              "https://yoohooworld.com/assets/images/vue_product_zoomer/thumbs/7.jpeg"
+              "https://picsum.photos/id/7/60"
           },
           {
             id: 8,
             url:
-              "https://yoohooworld.com/assets/images/vue_product_zoomer/thumbs/8.jpeg"
+              "https://picsum.photos/id/8/60"
           },
           {
             id: 9,
             url:
-              "https://yoohooworld.com/assets/images/vue_product_zoomer/thumbs/9.jpeg"
+              "https://picsum.photos/id/9/60"
           }
         ],
         normal_size: [
           {
             id: 1,
             url:
-              "https://yoohooworld.com/assets/images/vue_product_zoomer/normal_size/1.jpeg"
+              "https://picsum.photos/id/1/400"
           },
           {
             id: 2,
             url:
-              "https://yoohooworld.com/assets/images/vue_product_zoomer/normal_size/2.jpeg"
+              "https://picsum.photos/id/2/400"
           },
           {
             id: 3,
             url:
-              "https://yoohooworld.com/assets/images/vue_product_zoomer/normal_size/3.jpeg"
+              "https://picsum.photos/id/3/400"
           },
           {
             id: 4,
             url:
-              "https://yoohooworld.com/assets/images/vue_product_zoomer/normal_size/4.jpeg"
+              "https://picsum.photos/id/4/400"
           },
           {
             id: 5,
             url:
-              "https://yoohooworld.com/assets/images/vue_product_zoomer/normal_size/5.jpeg"
+              "https://picsum.photos/id/5/400"
           },
           {
             id: 6,
             url:
-              "https://yoohooworld.com/assets/images/vue_product_zoomer/normal_size/6.jpeg"
+              "https://picsum.photos/id/6/400"
           },
           {
             id: 7,
             url:
-              "https://yoohooworld.com/assets/images/vue_product_zoomer/normal_size/7.jpeg"
+              "https://picsum.photos/id/7/400"
           },
           {
             id: 8,
             url:
-              "https://yoohooworld.com/assets/images/vue_product_zoomer/normal_size/8.jpeg"
+              "https://picsum.photos/id/8/400"
           },
           {
             id: 9,
             url:
-              "https://yoohooworld.com/assets/images/vue_product_zoomer/normal_size/9.jpeg"
+              "https://picsum.photos/id/9/400"
           }
         ],
         large_size: [
           {
             id: 1,
             url:
-              "https://yoohooworld.com/assets/images/vue_product_zoomer/large_size/1.jpeg"
+              "https://picsum.photos/id/1/1024"
           },
           {
             id: 2,
             url:
-              "https://yoohooworld.com/assets/images/vue_product_zoomer/large_size/2.jpeg"
+              "https://picsum.photos/id/2/1024"
           },
           {
             id: 3,
             url:
-              "https://yoohooworld.com/assets/images/vue_product_zoomer/large_size/3.jpeg"
+              "https://picsum.photos/id/3/1024"
           },
           {
             id: 4,
             url:
-              "https://yoohooworld.com/assets/images/vue_product_zoomer/large_size/4.jpeg"
+              "https://picsum.photos/id/4/1024"
           },
           {
             id: 5,
             url:
-              "https://yoohooworld.com/assets/images/vue_product_zoomer/large_size/5.jpeg"
+              "https://picsum.photos/id/5/1024"
           },
           {
             id: 6,
             url:
-              "https://yoohooworld.com/assets/images/vue_product_zoomer/large_size/6.jpeg"
+              "https://picsum.photos/id/6/1024"
           },
           {
             id: 7,
             url:
-              "https://yoohooworld.com/assets/images/vue_product_zoomer/large_size/7.jpeg"
+              "https://picsum.photos/id/7/1024"
           },
           {
             id: 8,
             url:
-              "https://yoohooworld.com/assets/images/vue_product_zoomer/large_size/8.jpeg"
+              "https://picsum.photos/id/8/1024"
           },
           {
             id: 9,
             url:
-              "https://yoohooworld.com/assets/images/vue_product_zoomer/large_size/9.jpeg"
+              "https://picsum.photos/id/9/1024"
           }
         ]
       },
+
       zoomerOptions: {
         zoomFactor: 3,
         pane: "pane",
